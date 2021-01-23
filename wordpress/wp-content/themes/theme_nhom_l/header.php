@@ -18,6 +18,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/grid.css">
+	
 
 	<?php wp_head(); ?>
 </head>
@@ -120,7 +121,7 @@
 						<a href="http://localhost/CMS/wordpress/event-list/" class="module-2__list-menu-link">Event List</a>
 					</li>
 					<li class="module-2__list-menu-item">
-						<a href="" class="module-2__list-menu-link">Event Single</a>
+						<a href="http://localhost/CMS/wordpress/event-single/" class="module-2__list-menu-link">Event Single</a>
 					</li>
 				</ul>
 			</li>
